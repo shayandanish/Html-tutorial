@@ -1,0 +1,22 @@
+div
+{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: brown;
+    padding: 1px 2px 3px 5px;
+}
+
+h1
+{
+    height:100px;
+    width: 340px;
+    background-color: blue;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color:fuchsia; */
+    border:2px solid fuchsia ;
+    text-align: center;
+}
